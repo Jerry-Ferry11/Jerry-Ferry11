@@ -2,6 +2,10 @@
   <h1>Hi 👋, I'm Jerry Idemudia</h1> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F6C234&center=true&vCenter=true&width=460&lines=Founder...;Software+Developer...;UI%2FUX+Explorer...;Culture+X+Tech...." alt="Typing SVG" /></a>
 </div>
+<div align="center">
+  
+  [![](https://komarev.com/ghpvc/?username=Jerry-Ferry11&icon=8&color=orange)](https://visitcount.itsvg.in)
+</div>
 <br>
 <p align="center">
 <a href="https://github.com/Jerry-Ferry11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jerry-Ferry11" height="40" width="50" />
@@ -11,6 +15,7 @@
 <img src="https://shields.io" width="30" height="1">
 <a href="https://twitter.com/JIdemudia6872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JIdemudia6872" height="40" width="50" /></a>
 </p>
+
 
 <h1></h1>
 
@@ -71,7 +76,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Jerry-Ferry11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jerry-Ferry11&icon=8&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
